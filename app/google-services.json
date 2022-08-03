@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "843690402889",
+    "firebase_url": "https://autopartsshop-54bac-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "autopartsshop-54bac",
+    "storage_bucket": "autopartsshop-54bac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843690402889:android:4a7d7c911561c681b20b98",
+        "android_client_info": {
+          "package_name": "space.sneshko.autopartsshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843690402889-df0imes44pthormoniturf58djv8jgmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnKZLvcRTS93yHtOE_BMLYkA5Sv08csik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843690402889-df0imes44pthormoniturf58djv8jgmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
